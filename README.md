@@ -1,4 +1,4 @@
-### Halo 👋
+
 
 <!--
 **Fahroza-ploit/Fahroza-ploit** adalah repositori ✨ _special_ ✨ karena `README.md` (file ini) muncul di profil GitHub Anda.
@@ -14,7 +14,7 @@ Berikut adalah beberapa ide untuk Anda mulai:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Satria Aluh Perwira Nusa 👋
+### Halo, saya ALIF AFVED FAHROZA 👋
 
 ### dan inilah statistik saya
 

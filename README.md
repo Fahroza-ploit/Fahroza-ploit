@@ -1,9 +1,9 @@
-### Hi there 👋
+### Halo 👋
 
 <!--
-**Fahroza-ploit/Fahroza-ploit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fahroza-ploit/Fahroza-ploit** adalah repositori ✨ _special_ ✨ karena `README.md` (file ini) muncul di profil GitHub Anda.
 
-Here are some ideas to get you started:
+Berikut adalah beberapa ide untuk Anda mulai:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,41 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+### Hi there, I'm Satria Aluh Perwira Nusa 👋
+
+### dan inilah statistik saya
+
+<p align="center"><img src="https://www.codewars.com/users/SatriaAPN/badges/large"/><br /><br />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=SatriaAPN&show_icons=true&include_all_commits=true&theme=monokai" alt="statistik GitHub hossein heydari" /><br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatriaAPN&theme=monokai"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaAPN&layout=compact&theme=monokai&langs_count=12"/><br />
+
+</p>
+
+<!--
+
+**SatriaAPN/SatriaAPN** adalah ✨ _special_ ✨ repositori karena `README.md` (file ini) muncul di profil GitHub Anda.
+
+Berikut adalah beberapa ide untuk Anda mulai:
+
+- 🔭 Saat ini saya sedang mengerjakan ...
+
+- 🌱 Saya sedang belajar ...
+
+- 👯 Saya ingin berkolaborasi di ...
+
+- 🤔 Saya mencari bantuan untuk ...
+
+- 💬 Tanya saya tentang ...
+
+- 📫 Cara menghubungi saya: ...
+
+- 😄 Kata ganti: ...
+
+- ⚡ Fakta menyenangkan: ...
+
 -->

@@ -22,9 +22,9 @@ Berikut adalah beberapa ide untuk Anda mulai:
 
   <img src="https://github-readme-stats.vercel.app/api?username=Fahroza-ploit&show_icons=true&include_all_commits=true&theme=monokai" alt="statistik GitHub hossein heydari" /><br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatriaAPN&theme=monokai"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fahroza-ploit&theme=monokai"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaAPN&layout=compact&theme=monokai&langs_count=12"/><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahroza-ploit&layout=compact&theme=monokai&langs_count=12"/><br />
 
 </p>
 

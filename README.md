@@ -20,7 +20,7 @@ Berikut adalah beberapa ide untuk Anda mulai:
 
 <p align="center"><img src="https://www.codewars.com/users/SatriaAPN/badges/large"/><br /><br />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Fakroza-ploit&show_icons=true&include_all_commits=true&theme=monokai" alt="statistik GitHub hossein heydari" /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fahroza-ploit&show_icons=true&include_all_commits=true&theme=monokai" alt="statistik GitHub hossein heydari" /><br />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatriaAPN&theme=monokai"/>
 

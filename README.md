@@ -18,7 +18,7 @@ Berikut adalah beberapa ide untuk Anda mulai:
 
 ### dan inilah statistik saya
 
-<p align="center"><img src="https://www.codewars.com/users/SatriaAPN/badges/large"/><br /><br />
+<p align="center"><img src="https://www.codewars.com/users/Fahroza-ploit/badges/large"/><br /><br />
 
   <img src="https://github-readme-stats.vercel.app/api?username=Fahroza-ploit&show_icons=true&include_all_commits=true&theme=monokai" alt="statistik GitHub hossein heydari" /><br />
 
